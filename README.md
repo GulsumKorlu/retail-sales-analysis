@@ -1,4 +1,4 @@
-# Retail Store Sales — Cleaning, EDA & Tableau
+# Retail Store Sales (Cleaning, EDA & Tableau)
 
 ## Overview
 - This project explores retail transaction data using Python for data cleaning and EDA, and Tableau for visual analytics.
